@@ -1,17 +1,15 @@
-author: GitHub User
-name: Your Username
+author: Stongxin
+name: Elenasong
 
-title: your awesome title
+title: Welcome to my blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 所以不用老去纠结每件事,集中精力完成眼前的事情的过程中,愿望自然就会实现了吧。
 
-email: your-email@domain.com
+email: 1710530664@qq.com
 
 # social links
-twitter_username: anxhe_
-github_username:  anxhe
+twitter_username: Stongxin
+github_username:  Stongxin
 # rss: rss
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -47,19 +45,19 @@ jekyll-theme-experiment:
     avatar : https://robohash.org/experiment-avatar.png?size=300x300
 
   portfolio:
-    title: Portfolio
+    title: 项目展示
     projects:
 
-      - name: Jekyll Theme experiment
-        github: https://github.com/anxhe/jekyll-theme-experiment
+      - name: 测试项目demo1
+        github: https://github.com/Stongxin
         img_relative_url: /assets/example.png
 
-      - name: Jekyll Theme experiment
-        github: https://github.com/anxhe/jekyll-theme-experiment
+      - name: 测试项目demo2
+        github: https://github.com/Stongxin
         img_relative_url: /assets/example.png
 
   tools:
-    title: Tools and Experience
+    title: 一些工具
     icons:
       - relative_url: /assets/icons/bitbucket/bitbucket-original.svg
       - relative_url: /assets/icons/heroku/heroku-original.svg
